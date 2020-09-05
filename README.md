@@ -2,6 +2,8 @@
 
 Simple extension to inspect DFP settings in the devtools console.
 
+Shows a hardcoded list of interesting settings send to DFP in the console.
+
 
 ## Attribution
 

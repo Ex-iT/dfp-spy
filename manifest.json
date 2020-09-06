@@ -1,7 +1,7 @@
 {
 	"name": "DFP Spy",
 	"description": "Simple extension to inspect DFP settings in the devtools console.",
-	"version": "1.0",
+	"version": "0.1",
 	"manifest_version": 2,
 	"minimum_chrome_version": "39",
 	"background": {
@@ -19,7 +19,7 @@
 	"permissions": [
 		"activeTab",
 		"webRequest",
-		"<all_urls>"
+		"*://*/*"
 	],
 	"icons": {
 		"16": "images/dfp-spy16.png",

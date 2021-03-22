@@ -1,3 +1,5 @@
+<img align="right" width="128" height="128" src="images/dfp-spy128.png">
+
 # DFP Spy
 
 Simple extension to inspect DFP settings in the devtools console.
